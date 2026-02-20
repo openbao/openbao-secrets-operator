@@ -1,3 +1,10 @@
+
+
+> [!CAUTION]
+> This project is not maintained anymore.
+> Please see following [discussion](https://github.com/openbao/openbao-secrets-operator/discussions/5#discussioncomment-15628082).
+> We advise to use [External Secrets Operator](https://external-secrets.io/latest/provider/openbao/) instead.
+
 # Vault Secrets Operator
 
 The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
